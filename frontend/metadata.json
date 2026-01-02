@@ -1,0 +1,8 @@
+{
+  "name": "LuxeLaptops Management System",
+  "description": "A high-end MERN stack laptop store management system featuring 3D product previews, comprehensive admin dashboard, and a sleek user shopping experience.",
+  "requestFramePermissions": [
+    "camera",
+    "microphone"
+  ]
+}
